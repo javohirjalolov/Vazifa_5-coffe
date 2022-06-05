@@ -1,0 +1,49 @@
+.footer{
+  .footer__container{
+    background: #2C343E;
+    display: flex;
+    align-items: center;
+    padding-top: 47px;
+    padding-bottom: 47px;
+    margin-bottom: 88px;
+  }
+  
+  .footer__logo{
+    margin-left: 85px;
+    margin-right: 103px;
+  }
+  
+  .footer__list{
+    display: flex;
+    align-items: center;
+  }
+  
+  .footer__list-item{
+    text-transform: uppercase;
+    margin-right: 33px;
+  }
+  
+  .footer__link{
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+    font-family: 'Barlow';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 15px;
+    letter-spacing: 0.923077px;
+    color: #83888F;
+  }
+  
+  .end__list{
+    display: flex;
+    align-items: center;
+    margin-left: 300px;
+  }
+  
+  .end__list-item{
+    margin-right: 24px;
+  }
+  
+}
